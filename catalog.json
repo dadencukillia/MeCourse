@@ -1,5 +1,14 @@
 [
     {
-        "hello":"dino!"
+        "Name":"Введение в программирование (С++)",
+        "Platform":"Stepik",
+        "Author":"Михаил Густокашин (Yandex)",
+        "Url":"https://stepik.org/course/363/syllabus",
+        "Lessons":[
+            {
+                "Name":"1.1 Вводное занятие",
+                "Video":""
+            }
+        ]
     }
 ]
