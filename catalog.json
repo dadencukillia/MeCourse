@@ -7,6 +7,91 @@
         "Url":"https://www.udemy.com/course/react-native-basics-2021/",
         "Wallpaper":"https://ucarecdn.com/3ed59109-baac-422a-9680-af64e358df36/",
         "Lessons":[
+            {
+                "Name":"1.1. Об этом курсе",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1eCN6sFMcnrcJ8WMzdF8jgNouYwAllxA_?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"1.2. Требования",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/17nk6o1MRhurk3di5FB-sq3jJckIFzMWJ?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"1.3. Expo в React Native CLI",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1wsBjMXd_5PJTbnPeLEhMTqrj0pwF5CaR?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"1.4. Создание проекта",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/15uNcmULVV6H-4QTdr5vpVQsNJCeol2Bh?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"1.5. Знакомство с Expo",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1z6Bs58YxQ4rQgJiHK8I0rNOZAeMvyyuZ?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"1.6. Как работает React Native",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1XgX2EQfD10E124KuO5Wcs-Xt9YXn3Mty?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.1. Расположение элементов с Flexbox",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1zg8p4Hu8oi9gE_BbSslkF1_Zq7SxsRQh?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.2. Экран загрузки",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/19H3qRKpTxbSN8mUBdvvuvppIlc5bJx33?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.3. Получение геопозиции",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1OnBO-c9L5NDn7Ee4aRM43rXRZNYbbtpk?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.4. Запрос разрешения на доступ к геопозиции",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1MAW9E_Q0KOG48kPTIZTPilWqSZY7LbzS?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.5. Получение погоды по API",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1HbvT5v8he0b58iHEPEI8r0BYBjWd30mN?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.1. Отображение температуры",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1eb8nL4499pFRfMoCF1C0AkiTpOAwZ_3S?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.2. Получение погодных условий",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1gSmjBUgUSgFEhVx8DJtVwYYfhNRWimQe?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.3. Иконки и оформление",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1NRKALpPRxO4TaKM-8AAl6dB8f_xK5P1N?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.4. Градиентный фон",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1cuSCJh7n-qLhO4d30c5o0t_U3rC80Org?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.5. Заголовки и подзаголовки",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1l_aJzW5muWqgXQ0SI2WqULZS9KkMP8Ug?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.6. Итоги курса",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1CACI-wvewquuwSltrOsuyP5fZR84CLK8?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            }
         ]
     },
     {
