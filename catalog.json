@@ -1,5 +1,159 @@
 [
     {
+        "ID":3,
+        "Name":"Введение в Data Science и машинное обучение",
+        "Platform":"Stepik",
+        "Author":"Bioinformatics Institute",
+        "Url":"https://stepik.org/course/4852/syllabus",
+        "Wallpaper":"https://stepik.org/media/cache/images/courses/4852/cover_R0OtNuB/e51489363d079b8830367935563887e8.jpg",
+        "Lessons":[
+            {
+                "ID":1,
+                "Name":"1.1.1 Всем привет! О чем будет курс?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/49193b0d-ed31-412c-bf38-775e6573f4b2/48104_720_35159d15471d35dd794ce46c70d75887.mp4"
+            },
+            {
+                "ID":2,
+                "Name":"1.1.2 Всем привет! О чем будет курс?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/bc1e2af0-e252-410c-bd7a-48d439bf8d40/48105_720_56b048b0013b0e34b709c55fbdb50624.mp4"
+            },
+            {
+                "ID":3,
+                "Name":"1.1.3 Всем привет! О чем будет курс?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/73de7383-59ff-43ec-bc27-e2e727236285/48106_720_d5eb7f477a80cc0e5ef581ce39365493.mp4"
+            },
+            {
+                "ID":4,
+                "Name":"1.1.4 Всем привет! О чем будет курс?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/5aad3b0d-26ad-4bd5-8041-e66a4505cb30/48108_720_4984909a2c0b20f0ba31aee4aa741fb5.mp4"
+            },
+            {
+                "ID":5,
+                "Name":"1.2.1 Биг дэйта, дип машин лернинг, основные понятия",
+                "type":"video",
+                "Video":"https://ucarecdn.com/70361445-9c50-4629-b7e8-61f01679c8f8/48101_720_1b942b0d7c2758f6e8239034408c562e.mp4"
+            },
+            {
+                "ID":6,
+                "Name":"1.2.2 Биг дэйта, дип машин лернинг, основные понятия",
+                "type":"video",
+                "Video":"https://ucarecdn.com/4539bd7c-835b-4b77-8eb0-55cb88b2f6e7/48102_720_d5912f586dbed4f07a51a0b2e36fae01.mp4"
+            },
+            {
+                "ID":7,
+                "Name":"1.2.3 Биг дэйта, дип машин лернинг, основные понятия",
+                "type":"video",
+                "Video":"https://ucarecdn.com/9636939b-283b-469f-aecc-fcc5b1c33390/48103_720_48b2114d802bbf8c07b00453ea087fae.mp4"
+            },
+            {
+                "ID":8,
+                "Name":"1.3.1 Модель, нет, не супермодель, начнем с дерева",
+                "type":"video",
+                "Video":"https://ucarecdn.com/8ccd03f4-d7fb-4f0a-8ff2-dab3ae8f43ce/48109_720_48df6661d406976e0dccb8f6b14a9505.mp4"
+            },
+            {
+                "ID":9,
+                "Name":"1.3.2 Модель, нет, не супермодель, начнем с дерева",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3b838ea4-6590-4fbf-9c37-a0c8bc4a4f48/48110_720_98642837788d9510292e5bbfc46ad6fe.mp4"
+            },
+            {
+                "ID":10,
+                "Name":"1.3.3 Модель, нет, не супермодель, начнем с дерева",
+                "type":"video",
+                "Video":"https://ucarecdn.com/63aeddf3-fd06-4f13-81f9-a217db175b69/48111_720_27a414b455068130c0f11f9ac3055c37.mp4"
+            },
+            {
+                "ID":11,
+                "Name":"1.4.1 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/f0f10d69-6422-4148-82f7-3e6a8b871eb0/48112_720_a8ac5729e3851580c13b0f96a8ff85a4.mp4"
+            },
+            {
+                "ID":12,
+                "Name":"1.4.2 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/523cd823-00a7-4edc-b563-1ed72cb2f3c7/48113_720_70081a2d218ac55e79c9b909439eac29.mp4"
+            },
+            {
+                "ID":13,
+                "Name":"1.4.3 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d8e8a04f-7e26-4154-898f-7cc4d27b74a2/48114_720_5e57dc4487d549dc0bc21d2b6ea80a80.mp4"
+            },
+            {
+                "ID":14,
+                "Name":"1.4.4 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1608b0f1-5c46-4a08-853e-b412706cd820/48141_720_929993332440998506621b793925d1c5.mp4"
+            },
+            {
+                "ID":15,
+                "Name":"1.4.5 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/f8d63066-4be1-4a85-b302-6325a06d5442/48142_720_ff74b858e219d393bb390ae1c562b729.mp4"
+            },
+            {
+                "ID":16,
+                "Name":"1.4.6 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3d79b70e-2a22-463d-a6b8-25291b7edf8a/48116_720_e2031799f4929eecc2544f91c4860ac1.mp4"
+            },
+            {
+                "ID":17,
+                "Name":"1.5.1 Фильтрация данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/bd95b548-7b24-4876-9e1a-9c4d0d1fc1fb/48117_720_b8e8f24731134cc986b3a2dc71147fdb.mp4"
+            },
+            {
+                "ID":18,
+                "Name":"1.5.2 Фильтрация данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1af6d56c-75b7-4f7a-954c-e05de2a1d075/48118_720_7d0875c71e4e8ec2d1f2d58196f18004.mp4"
+            },
+            {
+                "ID":19,
+                "Name":"1.5.3 Фильтрация данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/64b763e2-bd09-411c-a652-afa469136f84/48119_720_a23013bd7f7e3be0cb9480fff0a73c99.mp4"
+            },
+            {
+                "ID":20,
+                "Name":"1.5.4 Фильтрация данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c671112e-65da-4849-b5ba-0b07d8daa530/48120_720_08a2eda267f95cd2588a3c119a6fd840.mp4"
+            },
+            {
+                "ID":21,
+                "Name":"1.5.5 Фильтрация данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1608b0f1-5c46-4a08-853e-b412706cd820/48141_720_929993332440998506621b793925d1c5.mp4"
+            },
+            {
+                "ID":22,
+                "Name":"1.5.6 Фильтрация данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/283a4bc8-37e3-424b-926d-d5e34dbedebe/48121_720_36c60acfd80342df4353c50888e89c1b.mp4"
+            },
+            {
+                "ID":23,
+                "Name":"1.4.4 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/83220747-a1e0-4041-9099-15573a1072e5/48122_720_5118838acfc9d669ea10d7e130dbe61a.mp4"
+            },
+            {
+                "ID":24,
+                "Name":"1.4.4 Pandas, Dataframes, нет, панды тут ни при чем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1608b0f1-5c46-4a08-853e-b412706cd820/48141_720_929993332440998506621b793925d1c5.mp4"
+            }
+        ]
+    },
+    {
         "ID":2,
         "Name":"Супер Figma (2022). Часть 1",
         "Platform":"CloudLessons",
