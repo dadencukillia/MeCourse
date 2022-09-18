@@ -8,148 +8,654 @@
         "Wallpaper":"https://stepik.org/media/cache/images/courses/4852/cover_R0OtNuB/e51489363d079b8830367935563887e8.jpg",
         "Lessons":[
             {
-                "ID":1,
                 "Name":"1.1.1 Всем привет! О чем будет курс?",
                 "type":"video",
                 "Video":"https://ucarecdn.com/49193b0d-ed31-412c-bf38-775e6573f4b2/48104_720_35159d15471d35dd794ce46c70d75887.mp4"
             },
             {
-                "ID":2,
                 "Name":"1.1.2 Всем привет! О чем будет курс?",
                 "type":"video",
                 "Video":"https://ucarecdn.com/bc1e2af0-e252-410c-bd7a-48d439bf8d40/48105_720_56b048b0013b0e34b709c55fbdb50624.mp4"
             },
             {
-                "ID":3,
                 "Name":"1.1.3 Всем привет! О чем будет курс?",
                 "type":"video",
                 "Video":"https://ucarecdn.com/73de7383-59ff-43ec-bc27-e2e727236285/48106_720_d5eb7f477a80cc0e5ef581ce39365493.mp4"
             },
             {
-                "ID":4,
                 "Name":"1.1.4 Всем привет! О чем будет курс?",
                 "type":"video",
                 "Video":"https://ucarecdn.com/5aad3b0d-26ad-4bd5-8041-e66a4505cb30/48108_720_4984909a2c0b20f0ba31aee4aa741fb5.mp4"
             },
             {
-                "ID":5,
                 "Name":"1.2.1 Биг дэйта, дип машин лернинг, основные понятия",
                 "type":"video",
                 "Video":"https://ucarecdn.com/70361445-9c50-4629-b7e8-61f01679c8f8/48101_720_1b942b0d7c2758f6e8239034408c562e.mp4"
             },
             {
-                "ID":6,
                 "Name":"1.2.2 Биг дэйта, дип машин лернинг, основные понятия",
                 "type":"video",
                 "Video":"https://ucarecdn.com/4539bd7c-835b-4b77-8eb0-55cb88b2f6e7/48102_720_d5912f586dbed4f07a51a0b2e36fae01.mp4"
             },
             {
-                "ID":7,
                 "Name":"1.2.3 Биг дэйта, дип машин лернинг, основные понятия",
                 "type":"video",
                 "Video":"https://ucarecdn.com/9636939b-283b-469f-aecc-fcc5b1c33390/48103_720_48b2114d802bbf8c07b00453ea087fae.mp4"
             },
             {
-                "ID":8,
                 "Name":"1.3.1 Модель, нет, не супермодель, начнем с дерева",
                 "type":"video",
                 "Video":"https://ucarecdn.com/8ccd03f4-d7fb-4f0a-8ff2-dab3ae8f43ce/48109_720_48df6661d406976e0dccb8f6b14a9505.mp4"
             },
             {
-                "ID":9,
                 "Name":"1.3.2 Модель, нет, не супермодель, начнем с дерева",
                 "type":"video",
                 "Video":"https://ucarecdn.com/3b838ea4-6590-4fbf-9c37-a0c8bc4a4f48/48110_720_98642837788d9510292e5bbfc46ad6fe.mp4"
             },
             {
-                "ID":10,
                 "Name":"1.3.3 Модель, нет, не супермодель, начнем с дерева",
                 "type":"video",
                 "Video":"https://ucarecdn.com/63aeddf3-fd06-4f13-81f9-a217db175b69/48111_720_27a414b455068130c0f11f9ac3055c37.mp4"
             },
             {
-                "ID":11,
                 "Name":"1.4.1 Pandas, Dataframes, нет, панды тут ни при чем",
                 "type":"video",
                 "Video":"https://ucarecdn.com/f0f10d69-6422-4148-82f7-3e6a8b871eb0/48112_720_a8ac5729e3851580c13b0f96a8ff85a4.mp4"
             },
             {
-                "ID":12,
                 "Name":"1.4.2 Pandas, Dataframes, нет, панды тут ни при чем",
                 "type":"video",
                 "Video":"https://ucarecdn.com/523cd823-00a7-4edc-b563-1ed72cb2f3c7/48113_720_70081a2d218ac55e79c9b909439eac29.mp4"
             },
             {
-                "ID":13,
                 "Name":"1.4.3 Pandas, Dataframes, нет, панды тут ни при чем",
                 "type":"video",
                 "Video":"https://ucarecdn.com/d8e8a04f-7e26-4154-898f-7cc4d27b74a2/48114_720_5e57dc4487d549dc0bc21d2b6ea80a80.mp4"
             },
             {
-                "ID":14,
                 "Name":"1.4.4 Pandas, Dataframes, нет, панды тут ни при чем",
                 "type":"video",
                 "Video":"https://ucarecdn.com/1608b0f1-5c46-4a08-853e-b412706cd820/48141_720_929993332440998506621b793925d1c5.mp4"
             },
             {
-                "ID":15,
                 "Name":"1.4.5 Pandas, Dataframes, нет, панды тут ни при чем",
                 "type":"video",
                 "Video":"https://ucarecdn.com/f8d63066-4be1-4a85-b302-6325a06d5442/48142_720_ff74b858e219d393bb390ae1c562b729.mp4"
             },
             {
-                "ID":16,
                 "Name":"1.4.6 Pandas, Dataframes, нет, панды тут ни при чем",
                 "type":"video",
                 "Video":"https://ucarecdn.com/3d79b70e-2a22-463d-a6b8-25291b7edf8a/48116_720_e2031799f4929eecc2544f91c4860ac1.mp4"
             },
             {
-                "ID":17,
                 "Name":"1.5.1 Фильтрация данных",
                 "type":"video",
                 "Video":"https://ucarecdn.com/bd95b548-7b24-4876-9e1a-9c4d0d1fc1fb/48117_720_b8e8f24731134cc986b3a2dc71147fdb.mp4"
             },
             {
-                "ID":18,
                 "Name":"1.5.2 Фильтрация данных",
                 "type":"video",
                 "Video":"https://ucarecdn.com/1af6d56c-75b7-4f7a-954c-e05de2a1d075/48118_720_7d0875c71e4e8ec2d1f2d58196f18004.mp4"
             },
             {
-                "ID":19,
                 "Name":"1.5.3 Фильтрация данных",
                 "type":"video",
                 "Video":"https://ucarecdn.com/64b763e2-bd09-411c-a652-afa469136f84/48119_720_a23013bd7f7e3be0cb9480fff0a73c99.mp4"
             },
             {
-                "ID":20,
                 "Name":"1.5.4 Фильтрация данных",
                 "type":"video",
                 "Video":"https://ucarecdn.com/c671112e-65da-4849-b5ba-0b07d8daa530/48120_720_08a2eda267f95cd2588a3c119a6fd840.mp4"
             },
             {
-                "ID":21,
                 "Name":"1.5.5 Фильтрация данных",
                 "type":"video",
                 "Video":"https://ucarecdn.com/1608b0f1-5c46-4a08-853e-b412706cd820/48141_720_929993332440998506621b793925d1c5.mp4"
             },
             {
-                "ID":22,
                 "Name":"1.5.6 Фильтрация данных",
                 "type":"video",
                 "Video":"https://ucarecdn.com/283a4bc8-37e3-424b-926d-d5e34dbedebe/48121_720_36c60acfd80342df4353c50888e89c1b.mp4"
             },
             {
-                "ID":23,
-                "Name":"1.4.4 Pandas, Dataframes, нет, панды тут ни при чем",
+                "Name":"1.6.1 Группировка и агрегация, ничего, скоро привыкнем",
                 "type":"video",
-                "Video":"https://ucarecdn.com/83220747-a1e0-4041-9099-15573a1072e5/48122_720_5118838acfc9d669ea10d7e130dbe61a.mp4"
+                "Video":"https://ucarecdn.com/e5bad92b-e27f-4ebf-9c28-d2608b98d271/48544_720_3d48a55fbf18a4ea8ee56b82aa097388.mp4"
             },
             {
-                "ID":24,
-                "Name":"1.4.4 Pandas, Dataframes, нет, панды тут ни при чем",
+                "Name":"1.6.2 Группировка и агрегация, ничего, скоро привыкнем",
                 "type":"video",
-                "Video":"https://ucarecdn.com/1608b0f1-5c46-4a08-853e-b412706cd820/48141_720_929993332440998506621b793925d1c5.mp4"
+                "Video":"https://ucarecdn.com/eba0b94c-f51d-460a-8f28-2daea1a5db3e/48545_720_ee558858ab6564cc4cd3fd41f396c8cc.mp4"
+            },
+            {
+                "Name":"1.6.3 Группировка и агрегация, ничего, скоро привыкнем",
+                "type":"video",
+                "Video":"https://ucarecdn.com/ab4b0540-893c-4783-9ab1-926417c62f30/48546_720_4ff01992027bc666f2876c4fd11d9c01.mp4"
+            },
+            {
+                "Name":"1.7.1 Визуализация, seaborn, почти также круто, как ggplot2",
+                "type":"video",
+                "Video":"https://ucarecdn.com/9d34f75b-acab-481a-abf6-6fefd58a646c/48126_720_58db9622367b77443a6ed343177246cb.mp4"
+            },
+            {
+                "Name":"1.7.2 Визуализация, seaborn, почти также круто, как ggplot2",
+                "type":"video",
+                "Video":"https://ucarecdn.com/bbd0b1b9-2d12-49f2-88e9-7512ffe5f36f/48127_720_3d2509eb13dd664d3f39cea1b34df85e.mp4"
+            },
+            {
+                "Name":"1.7.3 Визуализация, seaborn, почти также круто, как ggplot2",
+                "type":"video",
+                "Video":"https://ucarecdn.com/8474047a-5a58-4109-a28d-4287b9f94af0/48128_720_3b3c399f8c35831cb727f4801d91356e.mp4"
+            },
+            {
+                "Name":"1.9.1 Секретный гость",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1a990129-8b06-434a-b710-1cb3d9e317d2/50180_720_3015c40e1e092792536867c2149f2999.mp4"
+            },
+            {
+                "Name":"1.10.1 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/7162fcaa-ac6a-4b12-90e2-6c7ec03bca1c/50181_720_893f1471513fdb7ba63cb19ac3bd5b73.mp4"
+            },
+            {
+                "Name":"1.10.2 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1f08d108-f44d-4dc0-a34c-fdf91df082e7/50183_720_e24c35bbed18d6daeaf7ad8ab64f189e.mp4"
+            },
+            {
+                "Name":"1.10.3 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/44c8e9d0-8c6d-4816-9439-d043a4f5b49e/50184_720_1ef6aa02ba29eafcb69fd2c9bed3b14e.mp4"
+            },
+            {
+                "Name":"1.10.4 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3629c48e-5a0a-4fbf-83bb-ae7271e4ea82/50185_720_08f6a8014172716eb173ecbb5b14780d.mp4"
+            },
+            {
+                "Name":"1.10.5 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/73d60527-8a19-49f6-b750-d024c7dc22e4/50188_720_92e7a0da48f642310980905c31a2462f.mp4"
+            },
+            {
+                "Name":"1.10.6 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3457323b-a45d-40fc-8727-bd644004e123/50189_720_aacb2f8863a659aa4d3d66f315475a33.mp4"
+            },
+            {
+                "Name":"1.10.7 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d80dda8d-256a-4cbd-aa9a-e28afdc52ad2/50193_720_4b4054ba4d1ae4d71d9cb5a44b398db8.mp4"
+            },
+            {
+                "Name":"1.10.8 Stepik ML contest - это еще что такое?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/15f8769a-92ce-49a5-889e-3fd24681ea5a/50190_720_989a2ab5a942c7b1c415608468cfe32f.mp4"
+            },
+            {
+                "Name":"1.11.1 Stepik ML contest - data preprocessing",
+                "type":"video",
+                "Video":"https://ucarecdn.com/06c289ca-835e-4111-93a5-9df1ed5b524f/50194_720_e0033282dc334f3284f27a457923520a.mp4"
+            },
+            {
+                "Name":"1.11.2 Stepik ML contest - data preprocessing",
+                "type":"video",
+                "Video":"https://ucarecdn.com/561a668e-7d9c-44e7-af1d-088013bbb369/50195_720_4f3f3cf1c5eb24927a258816cbcb33fc.mp4"
+            },
+            {
+                "Name":"1.11.3 Stepik ML contest - data preprocessing",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6b6a0f73-5a20-4025-99f8-46867121206e/51037_720_ddfb8b2ec950da10cf3cfa0f41d917ae.mp4"
+            },
+            {
+                "Name":"1.11.4 Stepik ML contest - data preprocessing",
+                "type":"video",
+                "Video":"https://ucarecdn.com/69f4bd11-59a9-42bc-8e0b-aa2284ae98c0/50197_720_410b93048cc5d5bd1a2cbbefee2783a2.mp4"
+            },
+            {
+                "Name":"1.11.5 Stepik ML contest - data preprocessing",
+                "type":"video",
+                "Video":"https://ucarecdn.com/885798d2-fa5f-49e9-9d30-5e1ba2c5f3a9/50198_720_cb249d0ca614ea09ad0ad750c15b7e9c.mp4"
+            },
+            {
+                "Name":"1.11.6 Stepik ML contest - data preprocessing",
+                "type":"video",
+                "Video":"https://ucarecdn.com/45636698-116f-434f-9365-3f55acc0d53d/50199_720_cd5753ed836d6e9f93808024587d8e89.mp4"
+            },
+            {
+                "Name":"2.1.1 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/90752991-4e58-40d5-a13a-8a9a7998e516/50932_720_9d70b1025d699866c3e73c26375d17cc.mp4"
+            },
+            {
+                "Name":"2.1.2 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/7d742187-5766-4453-bbd9-113b3c6153db/50933_720_e4483861adae71a56b78f26b73168473.mp4"
+            },
+            {
+                "Name":"2.1.3 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/ae6bec99-fcc7-4ef4-812c-7ad7631f9753/50936_720_7d9b29544cf970d931d556d160f07475.mp4"
+            },
+            {
+                "Name":"2.1.4 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0e03699c-87da-4623-9fdb-6d88d0257986/50934_720_87857dcb4ab9e5ab93096b7ff9127c4d.mp4"
+            },
+            {
+                "Name":"2.1.5 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/2b22c565-0d1c-4e90-995c-755191feec52/50935_720_d1697325dc9e4898c78a915d1029270a.mp4"
+            },
+            {
+                "Name":"2.1.6 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/acc0765c-c049-42a8-99eb-9e144406f6de/51028_720_d717f71a98d95f0f21e1a3f081a06e75.mp4"
+            },
+            {
+                "Name":"2.1.7 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6c3a231e-6dd3-4692-9010-08ba6f1bcd6c/51029_720_722bbc76fdbb3446ec7be0069af9cda3.mp4"
+            },
+            {
+                "Name":"2.1.8 Какого музыканта Beatles я загадал или entropy reduction",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a550d04b-399c-4096-8be0-8360555ac63d/51030_720_5a6fa01ffe9dcea8f74e8f5d3d362dd6.mp4"
+            },
+            {
+                "Name":"2.2.1 Немного теории и энтропии",
+                "type":"video",
+                "Video":"https://ucarecdn.com/721976de-0b16-4a0a-a516-edd7af77366f/51031_720_aaca91dc3337d607e7d72bc137620fba.mp4"
+            },
+            {
+                "Name":"2.2.2 Немного теории и энтропии",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b603b574-02ef-4e70-8b53-f910bde348de/51032_720_63e0c770158febc6a4477b81936458b6.mp4"
+            },
+            {
+                "Name":"2.2.3 Немного теории и энтропии",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b4bde5d8-3fd8-46cc-b011-06c207a41a3b/51035_720_332a47ccf407705529e5392b17ee3c67.mp4"
+            },
+            {
+                "Name":"2.2.4 Немного теории и энтропии",
+                "type":"video",
+                "Video":"https://ucarecdn.com/e3e13530-9b60-4098-a442-76d3938c60ae/51034_720_37a0e3bfee67ffebf163cf21951d1099.mp4"
+            },
+            {
+                "Name":"2.3.1 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/8a26fbb5-943f-4228-8d13-1da4fa3ad3c7/51018_720_3aacbac8589d3ecb68b1ee23d177555d.mp4"
+            },
+            {
+                "Name":"2.3.2 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/490571d8-05f1-45d7-9829-71795cc10572/51019_720_ac88010b01762fd226acbea2edb52a70.mp4"
+            },
+            {
+                "Name":"2.3.3 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/aeff9715-9657-4182-9f61-8e6ceef4fa01/51020_720_cfb3256a27086caa2668f4d171a2301e.mp4"
+            },
+            {
+                "Name":"2.3.4 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/edd96f7c-b693-432a-9a0a-773b9ed69f5a/51021_720_f14686eb5bd088e8a822814ccc9afe91.mp4"
+            },
+            {
+                "Name":"2.3.5 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/32d1a428-6013-46aa-9003-472f4c43f479/51022_720_eace1a11311869f08d11661ea946ab65.mp4"
+            },
+            {
+                "Name":"2.3.6 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/10344da2-a2c7-4e64-a399-a36b4d5b8afe/51023_720_c32bb93e87257d7e59fdd0d14186048a.mp4"
+            },
+            {
+                "Name":"2.3.7 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/98e3af7d-158b-4b1e-ab98-95a4851f4d5f/51024_720_9b7df81914da105e2facfe09a4f4f436.mp4"
+            },
+            {
+                "Name":"2.3.8 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d4246a18-65ac-40a3-8e0b-c2c919d03c8f/51025_720_07d980854c48043b8ed79d07cf9b35d2.mp4"
+            },
+            {
+                "Name":"2.3.9 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a2acd107-fb4f-4dd6-8f67-693f44c70590/51026_720_79156cff76becf2292b7cb9af3c6a1f4.mp4"
+            },
+            {
+                "Name":"2.3.10 Titanic: Machine Learning from Disaster",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3847ca7e-511a-4718-be10-0f67f611e395/51027_720_3ce78cac9205e97b2b6222c5e26e3a26.mp4"
+            },
+            {
+                "Name":"2.4.1 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/cede0406-0f1c-4b6d-9d8e-222a1f8c2744/50957_720_9ec273c08e0b5fa36e6fac74f234ce47.mp4"
+            },
+            {
+                "Name":"2.4.2 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0dfc4831-4e02-47fa-8b91-448acc5dc471/50958_720_c107881a6511992e46d71bde7f58fbcc.mp4"
+            },
+            {
+                "Name":"2.4.3 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/da718386-b3db-4724-9418-3aea95be89c8/50959_720_e08517cc5f7ce9a665587e9c0b37935e.mp4"
+            },
+            {
+                "Name":"2.4.4 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/af80be99-7e39-4c3f-89af-3f2c6fc5e688/50960_720_ebc198911d58d3a2b2d173c115fc3c3c.mp4"
+            },
+            {
+                "Name":"2.4.5 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/fce7dd4e-ff50-416c-838c-d5e7760b0788/50961_720_fb765be19cea04286f86ae6e2a647115.mp4"
+            },
+            {
+                "Name":"2.4.6 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d6a9ed7d-7f99-42b3-bfa8-bfc8d81f1500/50962_720_7b1f4b144572aac802c110a87fdadecb.mp4"
+            },
+            {
+                "Name":"2.4.7 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6db1039b-5e69-410a-9582-e1a3958dfb7f/50963_720_42556fc160ee34383476903a96385e2a.mp4"
+            },
+            {
+                "Name":"2.4.8 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a2e2602b-7677-4946-8790-cca31a6cfc09/50964_720_54b75496241ee255ce0135074c152ec2.mp4"
+            },
+            {
+                "Name":"2.4.9 Обучение, переобучение, недообучение и кросвалидация",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d68a25b3-5446-4af8-8984-4166ee74020e/50965_720_41ab3c23bca104ef969be085d6d9c0d5.mp4"
+            },
+            {
+                "Name":"2.5.1 Последний джедай или метрики качества модели",
+                "type":"video",
+                "Video":"https://ucarecdn.com/33f1a92c-b4eb-4ad1-b0a4-68e9037c6f93/50966_720_a966b59646ae1a46b94bea284cb520ff.mp4"
+            },
+            {
+                "Name":"2.5.2 Последний джедай или метрики качества модели",
+                "type":"video",
+                "Video":"https://ucarecdn.com/393857a6-e641-4f65-809b-4283b085c49d/50967_720_5e7b51de3dcfa9f69c17fdcd1834581a.mp4"
+            },
+            {
+                "Name":"2.5.3 Последний джедай или метрики качества модели",
+                "type":"video",
+                "Video":"https://ucarecdn.com/64da1fa7-2f92-4522-87fc-4bee0309835e/50968_720_aaeaa74b8bda5e8c9e8f7d74ad452351.mp4"
+            },
+            {
+                "Name":"2.5.4 Последний джедай или метрики качества модели",
+                "type":"video",
+                "Video":"https://ucarecdn.com/8cf5fe1d-d7eb-4a68-932a-6e2dfdab02e1/50969_720_c602a48ea125129e8d45540ea31c8c32.mp4"
+            },
+            {
+                "Name":"2.5.5 Последний джедай или метрики качества модели",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3b554d6a-bffe-4de1-97b5-886572523b15/50970_720_98ecaeb5ef7a66f63e0d91af8cafe470.mp4"
+            },
+            {
+                "Name":"2.5.6 Последний джедай или метрики качества модели",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6e87a3be-7221-4d55-96da-9b37929b682b/50971_720_1644fbe4235e4c03ec4b341211c2c72c.mp4"
+            },
+            {
+                "Name":"2.6.1 Подбор параметров и ROC and Roll",
+                "type":"video",
+                "Video":"https://ucarecdn.com/573ad70f-3b27-412f-8dec-8e53013c0cd8/50972_720_e19957545c599541ac906325e383b285.mp4"
+            },
+            {
+                "Name":"2.6.2 Подбор параметров и ROC and Roll",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1658aab0-326d-46c8-a92f-052838f420ec/50973_720_718d9f603166960f3098ae6148f108d8.mp4"
+            },
+            {
+                "Name":"2.6.3 Подбор параметров и ROC and Roll",
+                "type":"video",
+                "Video":"https://ucarecdn.com/77182db6-50de-4ebf-8751-8f82c242fe4a/50974_720_79b63805d1f6262a6a8676fc8cbc49b3.mp4"
+            },
+            {
+                "Name":"2.6.4 Подбор параметров и ROC and Roll",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d9e174e7-2a98-4a79-9aea-66adc62ca4d7/50975_720_7714867c584897868d20e67a39ba5d67.mp4"
+            },
+            {
+                "Name":"2.6.5 Подбор параметров и ROC and Roll",
+                "type":"video",
+                "Video":"https://ucarecdn.com/58145d29-7e9b-4aff-83d9-58d3863026a1/50976_720_3ae635c8da560a025d3e2b3cacf383e3.mp4"
+            },
+            {
+                "Name":"2.9.1 Секретный гость",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0c7b6b7e-b032-470e-9a96-6b006e32a73e/50687_720_f4535eea1be83e41495f21af75c3e360.mp4"
+            },
+            {
+                "Name":"2.10.1 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d0a6031e-0adb-4086-aee2-5636a22e5cfd/50942_720_c028e4eed05f9d5e000526f4ce835cd7.mp4"
+            },
+            {
+                "Name":"2.10.2 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/20a2d71a-0ff9-408f-b38d-ccc952536609/50943_720_e8f517c584602185e6969c99989d4c69.mp4"
+            },
+            {
+                "Name":"2.10.3 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/fdb58dd2-fdf3-4799-b224-4549a974c715/50946_720_3532d2ae832b56247fcee34e6285c561.mp4"
+            },
+            {
+                "Name":"2.10.4 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/cceca4e2-621e-4d8d-bd0f-4a321822d0b0/50944_720_7b899e1ac8c06227443c513baa5c5bde.mp4"
+            },
+            {
+                "Name":"2.10.5 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/d4e2d107-e8bd-4656-9f77-1264e566c547/50945_720_a6626a6b8c672c8cefff1f092c50f96a.mp4"
+            },
+            {
+                "Name":"2.10.6 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/495e9944-0458-436f-bf52-072f14ef638f/50977_720_7ae5e18fb5727b1a8d8752f768005243.mp4"
+            },
+            {
+                "Name":"2.10.7 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b1b229da-1070-4149-aee3-38d2cea8de45/51036_720_8c4554341091feb57752156828485bd9.mp4"
+            },
+            {
+                "Name":"2.10.8 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6fb9db7b-c6e2-4032-aa4c-8bb5e4ed7f63/50978_720_94abed969d2f4d83bbe209911cdb6b04.mp4"
+            },
+            {
+                "Name":"2.10.9 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/086f5ee3-126b-4804-9557-3aebf22e6606/50979_720_38e289cba136068a308dcbd59c12203c.mp4"
+            },
+            {
+                "Name":"2.10.10 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/7267f845-ab84-4d82-b740-01258c946807/50980_720_5a9c8bb2e5c80457759adb12b760d774.mp4"
+            },
+            {
+                "Name":"2.10.11 Stepik ML contest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1a55e686-92a1-44ab-a909-4ea139bdefc1/50981_720_d22cdb3794e4377acab60ae528023851.mp4"
+            },
+            {
+                "Name":"3.1.1 Снова возвращаемся к деревьям",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3cdf7e44-d564-48f2-8c1b-164abd2a5f3c/51609_720_1be33a43e7bb3addc88d89e3f2b481fb.mp4"
+            },
+            {
+                "Name":"3.1.2 Снова возвращаемся к деревьям",
+                "type":"video",
+                "Video":"https://ucarecdn.com/ee821c82-aac0-4c63-aa4b-cf9a647950d6/51610_720_10ce1c27e4c28e10b34f6e330db48f39.mp4"
+            },
+            {
+                "Name":"3.1.3 Снова возвращаемся к деревьям",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3041ddc7-f880-4637-861c-668b2cf3e7fa/51611_720_cd2cfcd32a6ea68caa4df2eff271acd1.mp4"
+            },
+            {
+                "Name":"3.1.4 Снова возвращаемся к деревьям",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6ef03a55-bff0-480d-a864-ab21a277e6b2/51614_720_99df10f4dd4a2164486ddb1be849c191.mp4"
+            },
+            {
+                "Name":"3.1.5 Снова возвращаемся к деревьям",
+                "type":"video",
+                "Video":"https://ucarecdn.com/dc1285f5-56be-457c-8d6f-98b4f6c31c69/51613_720_32b6f3b3982b08e14492d6d1cf211ed9.mp4"
+            },
+            {
+                "Name":"3.1.6 Снова возвращаемся к деревьям",
+                "type":"video",
+                "Video":"https://ucarecdn.com/775bc1a0-a175-43db-865e-32eebe94b62e/51615_720_521fada1f517ad6b3e8ef592b1553feb.mp4"
+            },
+            {
+                "Name":"3.2.1 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/31de5fb8-9e4d-46e6-b105-6bc17dea9486/51616_720_75ef125bf844d430bb59a5a4a94d6d25.mp4"
+            },
+            {
+                "Name":"3.2.2 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/ee5dbe0e-91ed-46cf-809d-bdf830e4deb1/51617_720_9f665939035c407300590db0c3773368.mp4"
+            },
+            {
+                "Name":"3.2.3 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1341716e-bc23-41c1-b586-cec0a6a91bae/51618_720_a014e19168f6a7f8eea364032307911e.mp4"
+            },
+            {
+                "Name":"3.2.4 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/dc95e1de-d4df-4819-9543-31943003f46a/51619_720_fd609fd1b4989dde8272c6d73b552a3d.mp4"
+            },
+            {
+                "Name":"3.2.5 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/5f95504f-19ef-498d-bd24-1e33382517eb/51620_720_68979b902346d546213da31e1c03b8ec.mp4"
+            },
+            {
+                "Name":"3.2.6 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c542b78d-a68d-46e3-89c6-831435391809/51621_720_67173f25011e90739ccb5b83bc339757.mp4"
+            },
+            {
+                "Name":"3.2.7 Random forest",
+                "type":"video",
+                "Video":"https://ucarecdn.com/8d508fbe-31c1-45cb-869c-00c0afdac400/51622_720_c1f930094910b85b341ba5772f2c7f12.mp4"
+            },
+            {
+                "Name":"3.3.1 Зачем знать что-то еще, если есть Random Forest?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c783cf3d-60a7-408b-8688-abaf068e6a0d/51624_720_7622d36963eaf60b1701ac844d5152d5.mp4"
+            },
+            {
+                "Name":"3.3.2 Зачем знать что-то еще, если есть Random Forest?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/9c778713-def3-480a-89dc-ff4934b68887/51625_720_fb8ca1c3da9ab35dfa3c06eb45f41f2a.mp4"
+            },
+            {
+                "Name":"3.3.3 Зачем знать что-то еще, если есть Random Forest?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/f7bf4b39-576d-451c-b919-330cda2f8b01/51626_720_9b3a542a56b179fed9ba9f820814b580.mp4"
+            },
+            {
+                "Name":"3.3.4 Зачем знать что-то еще, если есть Random Forest?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/36dc922a-1f15-4938-8351-31002e9ef085/51627_720_1e3f044c9f42b53a46c0030248494f74.mp4"
+            },
+            {
+                "Name":"3.3.5 Зачем знать что-то еще, если есть Random Forest?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/cc75e097-b6f2-4b22-9afc-8dabbd8db04b/51628_720_ca6c3b01b9cdc5980bbdfefe2ad02442.mp4"
+            },
+            {
+                "Name":"3.3.6 Зачем знать что-то еще, если есть Random Forest?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/75011a8f-6e4b-4332-98f8-3e8dc8956203/51629_720_8aa58f83847ca67b50436d443d57d1db.mp4"
+            },
+            {
+                "Name":"3.4.1 Секретный гость",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6b3a976d-df99-4322-8258-c91f6cb14808/51725_720_069870f02331e008133ceaa620590635.mp4"
+            },
+            {
+                "Name":"3.6.1 Бонусный урок - нейроэволюция",
+                "type":"video",
+                "Video":"https://ucarecdn.com/5b51574e-99d1-4270-b1ec-407493a2f272/51637_720_935a4d01916ce1da4ec3e65d253e06d2.mp4"
+            },
+            {
+                "Name":"3.6.2 Бонусный урок - нейроэволюция",
+                "type":"video",
+                "Video":"https://ucarecdn.com/36c99320-1f74-4877-a448-930e2a5b2365/51638_720_4475855dbebf7b11df6d2a55c1ef7ad1.mp4"
+            },
+            {
+                "Name":"3.6.3 Бонусный урок - нейроэволюция",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c5182a06-5ba1-423b-bc10-cac80dc67f1f/51639_720_caa99f98ffa2de2a6f9015675ca9d4e9.mp4"
+            },
+            {
+                "Name":"3.6.4 Бонусный урок - нейроэволюция",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a33eba3e-ddda-43a9-81f8-6a6ec1a30ef2/51640_720_5ff14fcbaae840f962209745ca80df84.mp4"
+            },
+            {
+                "Name":"3.6.5 Бонусный урок - нейроэволюция",
+                "type":"video",
+                "Video":"https://ucarecdn.com/990bf57b-ebdf-4947-b9a2-303519615ba9/51641_720_f5d41dfcea165b7550a1126c43de479a.mp4"
+            },
+            {
+                "Name":"3.7.1 Бонусный урок - трюки в Pandas",
+                "type":"video",
+                "Video":"https://ucarecdn.com/28529e25-2a28-45b1-ad14-ab5c1af2914e/51631_720_56a1b6b9c1eac4bba3309def89914fe7.mp4"
+            },
+            {
+                "Name":"3.7.2 Бонусный урок - трюки в Pandas",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0859d089-a7cb-4b9f-b5b7-636f987d292c/51632_720_dc0b2f75e9fb8485651b6653d174db95.mp4"
+            },
+            {
+                "Name":"3.7.3 Бонусный урок - трюки в Pandas",
+                "type":"video",
+                "Video":"https://ucarecdn.com/34231b3a-270c-4b41-9612-ec61f42adc80/51633_720_9d40848de2db61a9666c2e38499c4a23.mp4"
+            },
+            {
+                "Name":"3.7.4 Бонусный урок - трюки в Pandas",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a447b0a4-49bb-4ea0-9ff3-d0f56dde50d9/51634_720_77c34bf59ca754af38d8a95740fe3293.mp4"
+            },
+            {
+                "Name":"3.7.5 Бонусный урок - трюки в Pandas",
+                "type":"video",
+                "Video":"https://ucarecdn.com/e9aefa75-a718-4407-8373-72c02aeb1a11/51635_720_f28307e8a3c8dc93e21ff3e5a9a2d734.mp4"
+            },
+            {
+                "Name":"3.7.6 Бонусный урок - трюки в Pandas",
+                "type":"video",
+                "Video":"https://ucarecdn.com/e9aefa75-a718-4407-8373-72c02aeb1a11/51635_720_f28307e8a3c8dc93e21ff3e5a9a2d734.mp4"
+            },
+            {
+                "Name":"3.8.1 Вот и все, а что дальше?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/bc92c67c-051b-4214-a400-676804d904ee/51642_720_0a2448e4b0620e696212ad42ad262f11.mp4"
+            },
+            {
+                "Name":"3.8.2 Вот и все, а что дальше?",
+                "type":"video",
+                "Video":"https://ucarecdn.com/af21ca3a-569e-41d5-8cb8-f1e9f5eb28f2/51643_720_c99f71289cffdba9a549dc44d127eba3.mp4"
             }
         ]
     },
@@ -162,85 +668,71 @@
         "Wallpaper":"https://raw.githubusercontent.com/dadencukillia/MeCourse/main/Courses/SuperFigma/wallpaper.png",
         "Lessons":[
             {
-                "ID":1,
                 "Name":"1. Интерфейс программы",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/10BJh-u3nmBsf2Nu0xKZj-X2D51maLlr9?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":2,
                 "Name":"2. Фреймы и группы",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/14v_nXfs7_PEIM_kFGJcRj2gJ4PsXjiWl?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":3,
                 "Name":"3. Слои и ограничения",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1QGQXolr2BXv9kM5BAj-eWvDoyYbGDBYP?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":4,
                 "Name":"4. Маски",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/16JZWL5z71sdHYq79M2e8S8BNn366NFLf?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":5,
                 "Name":"5. Типографика",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1m_EQZCaeOujh6_5YvM8ILW2seu0HGWtq?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":6,
                 "Name":"6. Стили и эффекты слоев",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1VkAj7iGn5KAgBdcRT8vAExBpcG4fjT8M?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":7,
                 "Name":"7. Работа с векторными обьектами",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1XhgWShJY9I6ODiu4ves623AI28APbMoA?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":8,
                 "Name":"8. Комьюнити",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1ztg8zcAj2KdBZoCORd8QdwC9B9kaOhCB?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":9,
                 "Name":"9. История версий",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1N-PN7-pKOH1qUd_5qmc7A_dSRjK5kOJ_?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":10,
                 "Name":"10. Преимущества платной версии",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1Ri47cpkxPZCouEDrseKPsP4u8VACtH25?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":11,
                 "Name":"11. Передача файла в разработку",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1pwVh5_HtGQjBLgbjbc5IxRAH23QwGHgc?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":12,
                 "Name":"12. FigJam",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1BIa8MzFOuNZYeaGM2AhPIJa_vRfGG7Yc?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":13,
                 "Name":"13. Делаем первый экран сайта",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1Q5BZm5l4xoxa4IF5Zyt3lv1dNcX_33TG?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "ID":14,
                 "Name":"Задание",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1EJcDXXy-uYJ39dBaxUR1Dv-ta0WOvrQt?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
@@ -256,73 +748,61 @@
         "Wallpaper":"https://stepik.org/media/cache/images/courses/363/cover/a6bf7a2a23ef951e6ab19c16e878f2d4.jpg",
         "Lessons":[
             {
-                "ID":1,
                 "Name":"1.1 Вводное занятие",
                 "type":"video",
                 "Video":"https://ucarecdn.com/c5ef4680-745f-4b58-b13e-6919d851afbc/6421_720_cf91b06d13962bb50428cda158cf509b.mp4"
             },
             {
-                "ID":2,
                 "Name":"1.2 Знакомство со средой разработки",
                 "type":"video",
                 "Video":"https://ucarecdn.com/ca357a8b-ce39-40c9-83f0-9d9e391a31b6/5758_720_af3edc6d3b1e03bcd08fd22d9567fd8f.mp4"
             },
             {
-                "ID":3,
                 "Name":"1.3 Целые числа",
                 "type":"video",
                 "Video":"https://ucarecdn.com/b75f672a-6642-4561-ae0c-c2a02d59538a/28851_720_0de95897635437607662f310b75351e4.mp4"
             },
             {
-                "ID":4,
                 "Name":"1.4 Условный оператор",
                 "type":"video",
                 "Video":"https://ucarecdn.com/a97bb6b6-b607-4f63-b284-054935f29f94/29004_720_eb50d05b6d00694260338c466afc345a.mp4"
             },
             {
-                "ID":6,
                 "Name":"1.5 Цикл while",
                 "type":"video",
                 "Video":"https://ucarecdn.com/03067a97-7831-4c01-9838-01f3d49de8e9/28840_720_85be9439dbfa3e2b2c05151a1393453a.mp4"
             },
             {
-                "ID":7,
                 "Name":"1.6 Действительные числа",
                 "type":"video",
                 "Video":"https://ucarecdn.com/c9e5d0c8-50ce-4237-8543-250267a384b1/28999_720_7231d3f3805dc7dd052227eea726e495.mp4"
             },
             {
-                "ID":8,
                 "Name":"1.7 Цикл for и массивы",
                 "type":"video",
                 "Video":"https://ucarecdn.com/0725e27e-4ba3-4d15-b2d9-1c63b893649d/29000_720_f77d1062339fd37a99d47771678ecb31.mp4"
             },
             {
-                "ID":9,
                 "Name":"1.8 Двумерные массивы",
                 "type":"video",
                 "Video":"https://ucarecdn.com/5640eb82-a5b4-4e18-91c2-040562a244b0/28841_720_175c52f10641899676a1dc839ed571d6.mp4"
             },
             {
-                "ID":10,
                 "Name":"1.9 Функции и рекурсия",
                 "type":"video",
                 "Video":"https://ucarecdn.com/3d628b1a-dee6-4f3c-bbf0-35d9640f5f4a/29001_720_50853b369aa02d73056f1180a7359c0c.mp4"
             },
             {
-                "ID":11,
                 "Name":"1.10 Строки и символы",
                 "type":"video",
                 "Video":"https://ucarecdn.com/ffcd5afd-25a6-47ea-816b-fbeb51d80153/28842_720_375d1b93b90cec0cb3a7698deec71d9b.mp4"
             },
             {
-                "ID":12,
                 "Name":"1.11 Словари и множества",
                 "type":"video",
                 "Video":"https://ucarecdn.com/d4a9ee65-26a1-4698-a987-6d896b1e522e/29002_720_1db54a12cecd0d9347b0e9b50d34422f.mp4"
             },
             {
-                "ID":13,
                 "Name":"1.12 Стандартные алгоритмы STL",
                 "type":"video",
                 "Video":"https://ucarecdn.com/a2e6230a-802f-4ff2-baa8-c6606c803865/29003_720_8aee1dece799ca775c29069338516269.mp4"
