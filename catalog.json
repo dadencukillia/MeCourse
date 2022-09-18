@@ -661,81 +661,121 @@
     },
     {
         "ID":2,
-        "Name":"Супер Figma (2022). Часть 1",
+        "Name":"Супер Figma (2022). Часть 1-2",
         "Platform":"CloudLessons",
         "Author":"Максим Кузнецов",
         "Url":"https://cloudlessons.ru/c/23969",
         "Wallpaper":"https://raw.githubusercontent.com/dadencukillia/MeCourse/main/Courses/SuperFigma/wallpaper.png",
         "Lessons":[
             {
-                "Name":"1. Интерфейс программы",
+                "Name":"1.1. Интерфейс программы",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/10BJh-u3nmBsf2Nu0xKZj-X2D51maLlr9?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"2. Фреймы и группы",
+                "Name":"1.2. Фреймы и группы",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/14v_nXfs7_PEIM_kFGJcRj2gJ4PsXjiWl?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"3. Слои и ограничения",
+                "Name":"1.3. Слои и ограничения",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1QGQXolr2BXv9kM5BAj-eWvDoyYbGDBYP?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"4. Маски",
+                "Name":"1.4. Маски",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/16JZWL5z71sdHYq79M2e8S8BNn366NFLf?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"5. Типографика",
+                "Name":"1.5. Типографика",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1m_EQZCaeOujh6_5YvM8ILW2seu0HGWtq?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"6. Стили и эффекты слоев",
+                "Name":"1.6. Стили и эффекты слоев",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1VkAj7iGn5KAgBdcRT8vAExBpcG4fjT8M?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"7. Работа с векторными обьектами",
+                "Name":"1.7. Работа с векторными обьектами",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1XhgWShJY9I6ODiu4ves623AI28APbMoA?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"8. Комьюнити",
+                "Name":"1.8. Комьюнити",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1ztg8zcAj2KdBZoCORd8QdwC9B9kaOhCB?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"9. История версий",
+                "Name":"1.9. История версий",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1N-PN7-pKOH1qUd_5qmc7A_dSRjK5kOJ_?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"10. Преимущества платной версии",
+                "Name":"1.10. Преимущества платной версии",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1Ri47cpkxPZCouEDrseKPsP4u8VACtH25?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"11. Передача файла в разработку",
+                "Name":"1.11. Передача файла в разработку",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1pwVh5_HtGQjBLgbjbc5IxRAH23QwGHgc?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"12. FigJam",
+                "Name":"1.12. FigJam",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1BIa8MzFOuNZYeaGM2AhPIJa_vRfGG7Yc?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"13. Делаем первый экран сайта",
+                "Name":"1.13. Делаем первый экран сайта",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1Q5BZm5l4xoxa4IF5Zyt3lv1dNcX_33TG?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             },
             {
-                "Name":"Задание",
+                "Name":"1. Задание",
                 "type":"video",
                 "Video":"https://www.googleapis.com/drive/v3/files/1EJcDXXy-uYJ39dBaxUR1Dv-ta0WOvrQt?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.1. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1FPoFniajo3V2e5_Utl0CPUQ8gM1kdhd-?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.2. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1knL0l8GPCO-SKeQfWwC-l1tPl_xMeQtN?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.3. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/107BEPdPeLrJqHIPhk1MxLk4jL-SZoasc?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.4. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/17oKvXvh3xvhNVcXsKojcl3B_zmf2eL5U?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.5. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1udHrljlShkb4xEZ-oYZuf1WGfnAnEi0J?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.6. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1OcFfpIkGhcWrXMcbndrzT4bo77laKZRv?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2.7. Модульные сетки и напрявляющие",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1I3ZHC-2kpovove-2jKyNHuzwbrDNbNXR?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"2. Задание",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1v3P6lJPMyfAs04ZmUi-yBrsllMAcaU5Y?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
             }
         ]
     },
