@@ -1,5 +1,179 @@
 [
     {
+        "ID":5,
+        "Name":"React JS с нуля и до создания полноценного SPA-приложения",
+        "Platform":"Udemy",
+        "Author":"Oleksandr Heiets",
+        "Url":"https://www.udemy.com/course/react-spa/",
+        "Wallpaper":"https://ucarecdn.com/f6c2e32b-92ab-493b-96d5-022239160364/",
+        "Lessons":[
+            {
+                "Name":"001 Введение",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1qZI8ZROmnAkajQoEi3K2h0zICnvaeWzo?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"002 Установка create-react-app",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1oc64lsxWvEp7jX6MqdQNqzCyjnKYXvIH?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"003 Верстка поля ввода добавления города",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/18iIRnRJJqyKMqw3O_m5zo_LppCsNoKzN?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"004 Верстка карточки города",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/16EdHmBOkkpdNngJWW4VYWJ6ov5hP0Ib3?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"005 Props и рендеринг компонентов",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1oIxKLqfBb4sXNr1Cg_24UpsT41hM79ko?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"006 Обработка событий",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1MZ7FpEc831-GNKBqZnNnoXSNq3WIsNJr?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"007 useState",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1WBaak8oG47B7C0IN3SMtkwPmxhlNsRW_?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"008 Использование useState на практике",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1JfJpMzecs2lbbF2AXGj-lIefe7wMhVR7?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"009 useRef",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1RdJwb0LaVU0oDOdQnn0-ZwDTVYYi64BM?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"010 useEffect",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1GhPS5XDj6U80wcLILTCW-GADBWBPGsJa?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"011 Используем fetch внутри useEffect",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1zIBj13uxK-XgLy5IDfIfWW8m0D9myMA4?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"012 useMemo",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/17QcID30feIy6TYp_tnouruyidrCF8x0B?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"013 Пользовательские хуки",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1e17mRvY03wk0aFgr0dRlm_9sn2naCyXw?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"014 Оптимизация React приложений с помощью memo и profiler",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1dIUmM1U_aSGK9wu_T9PwLTGaqEyI8ASO?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"015 useReducer",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1XauCIiUXDaYGqxasF9bOHZ7Kypi8LbO_?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"016 Удаление города из списка с помощью useReducer",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1HJYAhh9EvmNlcJXcje48uO4KIAQMZpZp?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"017 Переименование города",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1SixNkpdmmoHti0tIU2csZoYneju6dMVc?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"018 useContext для глобального стейта приложения",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1gYfiUcgLwdxh7_ueSuzjr0hmBR6KH0Xe?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"019 Синтаксис классовых компонентов",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1vZmJ9MsfkLxjMTSwCCEgd4ufx5CfYJC3?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"020 Использование state в классовых компонентах",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/11v4CvalT3cjYUILCHt2ZRBiadGOMyGaa?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"021 Методы жизненного цикла классовых компонентов",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/16Em93DWe5LQR7qC_wIEubuY7cT8xVa8-?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"022 Компоненты высшего порядка(HOC)",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/19cP1CSvlDTHHQMKuR-EMOXNPZzhMyF6R?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"023 Осмотр готовых компонентов высшего порядка",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/11xrWbIuqaS1zu01RnMwDJAzPmooBpit9?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"024 componentDidCatch и errorBoundary",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1bBgLZBp3B_aj6hem-jUxcBF7XUJD-e4d?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"025 Установка react-router",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1LIMfKDteyWDNcLHGeEsgv_ucpzuGzL_i?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"026 Создаем новый компонент под отдельный Route",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1Ycz5y7PHXfXK1EgMuMzxNLiOj-8SFq1X?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"027 Переиспользуем старый компонент в новой странице",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1jSonkfbDKuHMZ1SaZKGMylJfT2KnDnCO?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"028 useHistory_useRouteMatch",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/19AattxmElhT-s2A3jT7w_YI8erKJuEwo?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"029 useForecast",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1dH7JLz0tHYlvtOkK6g3vMyqKjaez9OyC?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"030 Базовая верстка мини-карточки погоды",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1ZeUH7TvGvxl-1yZtdbeQtT3KfevuRxvm?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"031 Детали погоды на мини-карточке",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1iM6-VNQDcALepqyTHAdRg0qGkt-56kQL?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"032 Добавление ссылки на главную страницу",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/10d-8DWj2pEHbuF5pOxYLBcq2oVIJtXke?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },{
+                "Name":"033 useLocation_useParams",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1pXVj3E5AAeUyHbsEQNnIgTF9GuINdJga?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            }
+        ]
+    },
+    {
         "ID":4,
         "Name":"React Native с нуля на практике [2021]",
         "Platform":"Udemy",
