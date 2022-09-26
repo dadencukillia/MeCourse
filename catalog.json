@@ -1,5 +1,249 @@
 [
     {
+        "ID":8,
+        "Name":"Нейронные сети и обработка текста",
+        "Platform":"Stepik",
+        "Author":"Samsung Research Russia Open Education",
+        "Url":"https://stepik.org/course/54098/syllabus",
+        "Wallpaper":"https://stepik.org/media/cache/images/courses/54098/cover_IdyvO9M/c258e7f3001cdf333984d032b44c7c3b.png",
+        "Lessons":[
+            {
+                "Name":"1.2.1 В общих чертах: естественный язык и текст",
+                "type":"video",
+                "Video":"https://ucarecdn.com/9ae6e581-1805-449c-9ace-1df362edd271/64296_720_9b61ff77ea228a109d74ecce19e9a55a.mp4"
+            },
+            {
+                "Name":"1.2.2 В общих чертах: естественный язык и текст",
+                "type":"video",
+                "Video":"https://ucarecdn.com/08dddff4-7fc3-4a9f-97ac-d6b116f8d088/64297_720_9577dbce1e14a3d870881ef946e68c2f.mp4"
+            },
+            {
+                "Name":"1.2.3 В общих чертах: естественный язык и текст",
+                "type":"video",
+                "Video":"https://ucarecdn.com/9745b57f-0c04-4424-b21e-dc2e5bb51b71/64298_720_03d41873cacb3b4f5391bd4602c122d9.mp4"
+            },
+            {
+                "Name":"1.2.4 В общих чертах: естественный язык и текст",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a31995b0-a895-4809-853c-023341719644/64299_720_ec7721fd27f8604da76e9e99f750419b.mp4"
+            },
+            {
+                "Name":"1.2.5 В общих чертах: естественный язык и текст",
+                "type":"video",
+                "Video":"https://ucarecdn.com/891d2b90-f4c9-41e6-8b32-32af6096c273/64300_720_168f45385ab4eb8a73b330a8ab8b730a.mp4"
+            },
+            {
+                "Name":"1.3.1 Особенности обработки естественных языков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0ef0852a-9ab0-48b7-b8c4-827169c697c7/64304_720_14ad5dc4faa5d2cef50c4cd43b02a24b.mp4"
+            },
+            {
+                "Name":"1.3.2 Особенности обработки естественных языков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/4c20ace0-82de-42d0-a305-9fecd360c713/64305_720_fbf5c6e997c26130701dbb6f3583bf56.mp4"
+            },
+            {
+                "Name":"1.3.3 Особенности обработки естественных языков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/3e4d1b45-8d64-4379-b9e0-9c794f34029d/64306_720_212e6b8213befed5333572f80beb06cb.mp4"
+            },
+            {
+                "Name":"1.3.4 Особенности обработки естественных языков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/2ede4a22-5f5e-48ff-8b91-bc40a697b45a/64307_720_d32c2af01c2f1ec788f889be4e459ea7.mp4"
+            },
+            {
+                "Name":"1.3.5 Особенности обработки естественных языков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/4057546d-7e64-4408-b195-95bdb70c50dd/64308_720_49cae4a9a13d35bb733e4bca7b83c31f.mp4"
+            },
+            {
+                "Name":"1.4.1 В общих чертах: Лингвистический анализ",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b432db3d-36aa-4c0c-8ce4-60ef78ac110b/64503_720_1650e3caff997f095f0680e0f0b5ce4c.mp4"
+            },
+            {
+                "Name":"1.4.2 В общих чертах: Лингвистический анализ",
+                "type":"video",
+                "Video":"https://ucarecdn.com/8921dbcc-6575-47b2-a04a-bb7ba9e04986/106811_720_7fa0c1606e870ad9c73a9478e257e237.mp4"
+            },
+            {
+                "Name":"1.4.3 В общих чертах: Лингвистический анализ",
+                "type":"video",
+                "Video":"https://ucarecdn.com/868fa21f-7830-4b93-9b17-b9cee00380ec/64432_720_6e340336d47a4ac222eb0bf43ad830be.mp4"
+            },
+            {
+                "Name":"1.4.4 В общих чертах: Лингвистический анализ",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c8aa7e19-d4ed-453b-92bf-5c3beeafa9f2/64433_720_b179dab5d4d7e848f3f57f593cd640b7.mp4"
+            },
+            {
+                "Name":"1.4.5 В общих чертах: Лингвистический анализ",
+                "type":"video",
+                "Video":"https://ucarecdn.com/93cad9b3-c8eb-4633-a39a-b6f770e99967/64434_720_793ef50265198b7c42fcfb58f06a1e50.mp4"
+            },
+            {
+                "Name":"1.5.1 В общих чертах: Извлечение признаков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1e8ca767-f461-4c49-81c6-fe5bf9e4302b/65768_720_78f858b132b25b63383f67bebb93bbc5.mp4"
+            },
+            {
+                "Name":"1.5.2 В общих чертах: Извлечение признаков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/1e8ca767-f461-4c49-81c6-fe5bf9e4302b/65768_720_78f858b132b25b63383f67bebb93bbc5.mp4"
+            },
+            {
+                "Name":"1.5.3 В общих чертах: Извлечение признаков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c0a9a465-ce66-4c23-914f-e01d459059cd/64437_720_1f2963ef58c3219f60cf77f95e3a9fdc.mp4"
+            },
+            {
+                "Name":"1.5.4 В общих чертах: Извлечение признаков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/e49ea42a-0126-4566-bf9b-c0cf62526ea0/64438_720_97c0c4b049489fe9e5654177f84807d6.mp4"
+            },
+            {
+                "Name":"1.5.5 В общих чертах: Извлечение признаков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c5a7130e-0f92-4112-84db-10e30e82488e/64439_720_f13e57dc43089d0d83f6e55ea81425d2.mp4"
+            },
+            {
+                "Name":"1.5.6 В общих чертах: Извлечение признаков",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b8305a12-399d-4276-aced-2f7711e6bebc/64440_720_ffdc8131b8c232c82a6d868b12200b93.mp4"
+            },
+            {
+                "Name":"1.6.1 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/74fd7fdd-acb9-44ef-8a8c-a5ba42f86bdd/64441_720_5e453c7f5b50aa1a30fd5696909ad0ad.mp4"
+            },
+            {
+                "Name":"1.6.2 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/917728c1-d5df-4385-9465-c2729dd301e3/64442_720_c85b5c82fd5b8036b66ad11c8e1504e8.mp4"
+            },
+            {
+                "Name":"1.6.3 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/38f69a68-59d9-4e7a-aab5-d6895e47eb3c/64443_720_9721f37b180eff677e9d1df2ec9a95c4.mp4"
+            },
+            {
+                "Name":"1.6.4 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b7468a3b-07f2-45ed-8778-ff2f683a8745/64444_720_fabe661ca53890a9220ab252e087ebfa.mp4"
+            },{
+                "Name":"1.6.5 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/9959982b-8925-4251-91c5-6c1bbfb6e517/64445_720_69968fbc58d8a962696c1d06a540ced7.mp4"
+            },
+            {
+                "Name":"1.6.6 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0febce83-903c-4e46-9d72-ddccac10a5ba/64446_720_6ed907a10ebd543923ab64eca1bc63d8.mp4"
+            },
+            {
+                "Name":"1.6.7 Прикладные задачи обработки текста и итоги",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a56240fb-ae00-4386-ae9f-c57823c76ede/64447_720_470cd5bb81a8424895556e18ca7075b5.mp4"
+            },
+            {
+                "Name":"2.1.1 Векторная модель текста и TF-IDF",
+                "type":"video",
+                "Video":"https://ucarecdn.com/82c5f7e2-ef66-400b-8ff0-e204dd664f35/64785_720_63ce45a3f6c169d8084f0116d6d83c39.mp4"
+            },
+            {
+                "Name":"2.1.2 Векторная модель текста и TF-IDF",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b4690b25-4117-4b01-8adb-840c7a4414e4/64708_720_5640cdd202ccd1bd788cf671605c0088.mp4"
+            },
+            {
+                "Name":"2.1.3 Векторная модель текста и TF-IDF",
+                "type":"video",
+                "Video":"https://ucarecdn.com/5540018a-5333-4cfb-bf3c-8449c8681204/64709_720_1a96285f1b9f377a9704c4a001f90af1.mp4"
+            },
+            {
+                "Name":"2.1.4 Векторная модель текста и TF-IDF",
+                "type":"video",
+                "Video":"https://ucarecdn.com/80066066-2191-4593-800d-53cee1625d95/64723_720_be5fa870a623efc47fed18a7a191f0e2.mp4"
+            },
+            {
+                "Name":"2.1.5 Векторная модель текста и TF-IDF",
+                "type":"video",
+                "Video":"https://ucarecdn.com/85a9b997-c252-4305-b2ea-e609e10e89dc/64725_720_e2b4caa4d8239df43f11162fb86ff3dd.mp4"
+            },
+            {
+                "Name":"2.1.6 Векторная модель текста и TF-IDF",
+                "type":"video",
+                "Video":"https://ucarecdn.com/0fbd58ed-c9be-4150-8bc3-49ba61411f08/64726_720_3ac94ba70311a5a37e470685cab3ee5b.mp4"
+            },
+            {
+                "Name":"2.2.1 Создаём нейросеть для работы с текстом",
+                "type":"video",
+                "Video":"https://ucarecdn.com/41322cb2-bc14-42d2-a6ba-c40fba7b6446/64851_720_612d49a99df1c8ee98ebe2bda2cfb594.mp4"
+            },
+            {
+                "Name":"2.2.2 Создаём нейросеть для работы с текстом",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b683cbb3-c78f-451d-a182-bbd25dbdbdef/64789_720_1c28354dca69f0314be6321b43cebada.mp4"
+            },
+            {
+                "Name":"2.2.3 Создаём нейросеть для работы с текстом",
+                "type":"video",
+                "Video":"https://ucarecdn.com/023885f8-a3c0-4227-82b3-fb3387b49828/64790_720_5f99ba1a06fb6d462bd27bb543d7379c.mp4"
+            },
+            {
+                "Name":"2.2.4 Создаём нейросеть для работы с текстом",
+                "type":"video",
+                "Video":"https://ucarecdn.com/6db3911f-86c7-478a-a596-f030a6d0ff74/64791_720_9e1f72abeb0cf2489bde87c54c2e2f59.mp4"
+            },
+            {
+                "Name":"2.4.1 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/2d2b7f73-e2a9-4e22-9a27-4cc32723bdbb/64742_720_aceaf5867dda444092ce4aaf0f621d37.mp4"
+            },
+            {
+                "Name":"2.4.2 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/c0d5e186-1492-4f96-a42f-ae9f6075c44d/64784_720_3b6c93f4b742b4e2bf1b2313b10303cd.mp4"
+            },
+            {
+                "Name":"2.4.3 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a3953828-d05d-4f8b-a680-41dc6cddf295/64786_720_637eba96dd2943946f7bcd1e21448faf.mp4"
+            },
+            {
+                "Name":"2.4.4 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/e35563ec-2512-4434-9a3f-5c58c0557270/65449_720_740f7ac4b6c7f86c4d7f598392506ee6.mp4"
+            },
+            {
+                "Name":"2.4.5 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/a3c5e8cd-180a-4f14-8df3-2020e79a3da8/65450_720_618ea130fecc3dc08cdc0c280e023bbe.mp4"
+            },
+            {
+                "Name":"2.4.6 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/fc92ec97-f4bf-4018-9e9b-6f93bd458ae7/64793_720_01ca8874d7782e641473d55208d18e64.mp4"
+            },
+            {
+                "Name":"2.4.7 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/008778f1-056d-41cb-807e-0301e86d4ea8/64794_720_965406f44cb20dcba04d5538c4cf586b.mp4"
+            },
+            {
+                "Name":"2.4.8 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/56aa32ec-c73a-476b-b3bd-baf1b6cc7af0/64795_720_5ac8bd33f4a4e0f2078936d01701ba64.mp4"
+            },
+            {
+                "Name":"2.4.9 Семинар: классификация новостных текстов",
+                "type":"video",
+                "Video":"https://ucarecdn.com/93f30b2d-0a30-423b-8db5-431049605f9a/64796_720_35bc5543cbf2a4c5e5832495bd941567.mp4"
+            }
+        ]
+    },
+    {
         "ID":7,
         "Name":"TensorFlow для начинающих",
         "Platform":"Stepik",
