@@ -1,5 +1,65 @@
 [
     {
+        "ID":7,
+        "Name":"TensorFlow для начинающих",
+        "Platform":"Stepik",
+        "Author":"Елена Капаца",
+        "Url":"https://stepik.org/course/74653/syllabus",
+        "Wallpaper":"https://stepik.org/media/cache/images/courses/74653/cover_RTPRYds/9ac2030aec444bf530dcb1138db4d2ec.png",
+        "Lessons":[
+            {
+                "Name":"1.1 Что такое Наука о данных",
+                "type":"video",
+                "Video":"https://ucarecdn.com/ee5bac64-c926-4106-8d07-9a7ccf980503/143244_720_7ed644e059db9432ce6072539cf0d472.mp4"
+            },
+            {
+                "Name":"1.2 Что такое TensorFlow",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143245/720/00ca43f927bca94fbf84b86d1d788561.mp4"
+            },
+            {
+                "Name":"1.3 Проверка фреймворка",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143246/720/84f8d563a2b0224d10ff7be3ec473984.mp4"
+            },
+            {
+                "Name":"2.1 Векторы, матрицы",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143247/720/11a9c9752cf08c9cd6a5364a3d377b47.mp4"
+            },
+            {
+                "Name":"2.2 Операции над матрицами",
+                "type":"video",
+                "Video":"https://ucarecdn.com/b7bf69bc-b1da-4b77-8a89-67d5311132ca/143248_720_b8ac8ddbac611bf551c54cdc6f7a79ff.mp4"
+            },
+            {
+                "Name":"2.3 Распознавание изображений",
+                "type":"video",
+                "Video":"https://ucarecdn.com/049dd2ca-51ec-4baa-91a1-dcf505146cd2/143252_720_e4757ced47bd252666e5819a424e8419.mp4"
+            },
+            {
+                "Name":"2.4 Tensorboard | Настройка Машинного обучения",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143249/720/14ab8f6d3e703e56ec6ef45c1cb36e3b.mp4"
+            },
+            {
+                "Name":"2.5 Генерация текста",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143254/720/eba86c277d1287e8a73c7797e37872b8.mp4"
+            },
+            {
+                "Name":"2.6 Стилизация изображений",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143251/720/8889c454e062ebf7c186c93f5663af30.mp4"
+            },
+            {
+                "Name":"2.7 Визуализация графа",
+                "type":"video",
+                "Video":"https://stepikvideo.blob.core.windows.net/video/143250/720/3c03deb2cb2babe3ff0f1f9422eb6e3d.mp4"
+            }
+        ]
+    },
+    {
         "ID":6,
         "Name":"Express JS 2021",
         "Platform":"Unknown",
