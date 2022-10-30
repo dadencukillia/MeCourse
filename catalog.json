@@ -1,5 +1,120 @@
 [
     {
+        "ID":9,
+        "Name":"Изучение C++ с нуля",
+        "Platform":"Udemy",
+        "Author":"Артем Баданов",
+        "Url":"https://www.udemy.com/course/function_c_plus/",
+        "Wallpaper":"https://ucarecdn.com/69b99ab8-35e7-4151-9454-7e57056dd953/",
+        "Lessons":[
+            {
+                "Name":"1.1. Введение",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=18nyVquj2NlB1Arz6eQaO39rlR1Q6iOM4"
+            },
+            {
+                "Name":"1.2. Введение в язык С++",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=19Y0cMC4pPXsr2aJgmC5QUzqjfzzOBt4o"
+            },
+            {
+                "Name":"1.4. Переменные",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1nY_E1q1IULnCjfoG9VKfvhwSle94QNbc"
+            },
+            {
+                "Name":"1.6. Ввод и вывод. Escape – последовательности",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1Bzz1jKDAYAsE_4WzNwsCVQOV2RHrgJ5Z"
+            },
+            {
+                "Name":"1.8. Арифметические операторы",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1utVWyWhkR5Ti75IMnO6wAnD9UQRGE4yY"
+            },
+            {
+                "Name":"1.10. Операции инкремента и декремента",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=16XngbuyXtl04RHa_TvlXAFNS1H5IcI0n"
+            },
+            {
+                "Name":"2.1. Работа со строками",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1XL3mKARpRhEnpYBxGJbjUWK6h6zzg5c8"
+            },
+            {
+                "Name":"2.3. Условный оператор if",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1KJg4r0jMHfNsWRnPK5Ei1Dg9jN69EyBK"
+            },
+            {
+                "Name":"2.5. Условные выражения. Логические операции",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1kGwXJHAfaHwY-exq9Qh1TJOnDu-WsBvD"
+            },
+            {
+                "Name":"2.7. Условный оператор switch",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1UP3_Z84tdgC3NB0oP1RRZNtOUdZNCviU"
+            },
+            {
+                "Name":"2.9. Цикл While",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1kYwKDopkRWTiDgrmV_pZeNGsyWK3Rzfl"
+            },
+            {
+                "Name":"2.11. Цикл for",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1VE8vAsRhH9Tv0agggGsZ2RfQWxkPvF0W"
+            },
+            {
+                "Name":"2.13. Одномерные массивы",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1-9gKUMIvx5zevKhJxaiZNi8xVgSabpiw"
+            },
+            {
+                "Name":"2.15. Двумерные массивы",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1XdzNXQ0cdJmtNqz8V8Go7C1UqPJg_wlD"
+            },
+            {
+                "Name":"3.1. Массивы строк",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1XcW7Yekyu_Qh2QUMJlCDyQZ_Og92jxKE"
+            },
+            {
+                "Name":"3.3. Структуры",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1_2bzv4V8Uc0LUqf3VOvkl50EUL_Mm-8Y"
+            },
+            {
+                "Name":"3.5. Функции",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1U5o96srO9oV2shvFf6fQRGSHhVkSjCiB?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.7. Указатели и ссылки",
+                "type":"video",
+                "Video":"https://www.googleapis.com/drive/v3/files/1fnDQVpSkgSpV6y2L44McpaC3lb8XxVie?alt=media&key=AIzaSyAA9ERw-9LZVEohRYtCWka_TQc6oXmvcVU&supportsAllDrives=True"
+            },
+            {
+                "Name":"3.9. Немного про ООП",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1JWOYxA7pa3yGDrmVZL52cDp2xTT7TIub"
+            },
+            {
+                "Name":"3.11. Работа с файлами",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1JsIfjtjYeJmSle-SyceFGHrnlEwtvPQF"
+            },
+            {
+                "Name":"3.13. Собственный проект",
+                "type":"video",
+                "Video":"https://drive.google.com/uc?id=1_cZ4KDGMYQHr5NG8ZSrQexoUqBHk0TYE"
+            }
+        ]
+    },
+    {
         "ID":8,
         "Name":"Нейронные сети и обработка текста",
         "Platform":"Stepik",
